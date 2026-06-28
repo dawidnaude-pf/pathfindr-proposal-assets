@@ -1,0 +1,106 @@
+{
+  "version": "2026-06-28",
+  "usage": "Shared Pathfindr credibility logos for generated proposal microsites. Prospect/client logos are brief-specific inputs and are not baked into this manifest.",
+  "hosting": {
+    "mode": "public-url-registry",
+    "note": "These URLs are public HTTPS assets that render without bundling files into the microsite. For owned blob hosting, mirror them with scripts/mirror_logo_assets.py and replace each url with the hosted blob URL."
+  },
+  "logos": [
+    {
+      "name": "Accenture",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg",
+      "class": "wide",
+      "priority": 10,
+      "source": "Wikimedia Commons",
+      "mirrored_file": "010-accenture.svg"
+    },
+    {
+      "name": "Johnson & Johnson",
+      "url": "https://www.google.com/s2/favicons?sz=128&domain=jnj.com",
+      "class": "square",
+      "priority": 20,
+      "source": "Google favicon service",
+      "mirrored_file": "020-johnson-johnson.png"
+    },
+    {
+      "name": "Coles Group",
+      "url": "https://www.colesgroup.com.au/FormBuilder/_Resource/_module/ir5sKeTxxEOndzdh00hWJw/images/coles-logo.svg",
+      "class": "wide",
+      "priority": 30,
+      "source": "Coles Group website",
+      "mirrored_file": "030-coles-group.svg"
+    },
+    {
+      "name": "Virgin Australia",
+      "url": "https://www.google.com/s2/favicons?sz=128&domain=virginaustralia.com",
+      "class": "square",
+      "priority": 40,
+      "source": "Google favicon service",
+      "mirrored_file": "040-virgin-australia.png"
+    },
+    {
+      "name": "ABC",
+      "url": "https://www.google.com/s2/favicons?sz=128&domain=abc.net.au",
+      "class": "square",
+      "priority": 50,
+      "source": "Google favicon service",
+      "mirrored_file": "050-abc.png"
+    },
+    {
+      "name": "AFL",
+      "url": "https://www.google.com/s2/favicons?sz=128&domain=afl.com.au",
+      "class": "square",
+      "priority": 60,
+      "source": "Google favicon service",
+      "mirrored_file": "060-afl.jpg"
+    },
+    {
+      "name": "RACQ",
+      "url": "https://www.racq.com.au/-/media/project/racqgroup/racq/icons/racq-logo.svg?iar=0&rev=34159441153f4bccb20ac4ccb235af1f&hash=41341B521B48720D7C9F4E1CAB90FD83",
+      "class": "wide",
+      "priority": 70,
+      "source": "RACQ website",
+      "mirrored_file": "070-racq.svg"
+    },
+    {
+      "name": "Engineers Australia",
+      "url": "https://www.engineersaustralia.org.au/themes/custom/ea_bootstrap/assets/src/images/logo.svg",
+      "class": "tall",
+      "priority": 80,
+      "source": "Engineers Australia website",
+      "mirrored_file": "080-engineers-australia.svg"
+    },
+    {
+      "name": "Australian Catholic University",
+      "url": "https://www.google.com/s2/favicons?sz=128&domain=acu.edu.au",
+      "class": "square",
+      "priority": 90,
+      "source": "Google favicon service",
+      "mirrored_file": "090-australian-catholic-university.png"
+    },
+    {
+      "name": "Cotton On Group",
+      "url": "https://www.google.com/s2/favicons?sz=128&domain=cottonongroup.com.au",
+      "class": "square",
+      "priority": 100,
+      "source": "Google favicon service",
+      "mirrored_file": "100-cotton-on-group.png"
+    },
+    {
+      "name": "CHU",
+      "url": "https://chu.com.au/wp-content/themes/chu-2026/assets/images/logos/logo.svg",
+      "class": "wide",
+      "priority": 110,
+      "source": "CHU website",
+      "mirrored_file": "110-chu.svg"
+    },
+    {
+      "name": "Australian Venue Co",
+      "url": "https://www.google.com/s2/favicons?sz=128&domain=ausvenueco.com.au",
+      "class": "square",
+      "priority": 120,
+      "source": "Google favicon service",
+      "mirrored_file": "120-australian-venue-co.png"
+    }
+  ]
+}
